@@ -1,0 +1,3 @@
+## Algorithm
+
+A dictionary compressor technique is implemented to compress and decompress string inputs in this program. Each unique word is matched with a unique integer incrementally starting from zero and replaced. To decompress the encrypted message, the string-to-integer map is reversed to obtain the integer-to-string map. The nubers in the compressed message are substituted with their corresponding words which resulting in the original message.
